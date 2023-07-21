@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PUMA Motorsport",
+      "description": "Ferrari Style Jacquard Brand Logo Polo Collar Pure Cotton Ribbed T-shirt",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21532718/2023/2/15/1cc535cf-89de-47f1-ba7b-35db518b657a1676440937707-PUMA-Motorsport-Ferrari-Style-Jacquard-Brand-Logo-Polo-Colla-1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21532718/2023/2/15/1cc535cf-89de-47f1-ba7b-35db518b657a1676440937707-PUMA-Motorsport-Ferrari-Style-Jacquard-Brand-Logo-Polo-Colla-1.jpg",
+      "imgAltText": "PUMA Motorsport",
+      "maxRetailPrice": 4999,
+      "category": "Men",
+      "discountApplicable": 40,
+      "added": "2021-09-04",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1002,
+          "name": "Rajeev Ranjan",
+          "email": "rajeev@gmail.com",
+          "phone": "9765466332",
+          "comment": "Good fabric and comfort",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Antony Morato",
+      "description": "Orange tartan checks checked opaque Casual shirt ,has a hooded, button placket, na pocket, long regular sleeves, curved hem",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18246878/2022/7/16/7c1e9a9b-8624-4830-b48b-afb045b29e731657971218567AntonyMoratoMenOrangeTartanChecksCheckedCasualShirt3.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18246878/2022/7/16/7c1e9a9b-8624-4830-b48b-afb045b29e731657971218567AntonyMoratoMenOrangeTartanChecksCheckedCasualShirt3.jpg",
+      "imgAltText": "Antony Morato",
+      "maxRetailPrice": 12999,
+      "category": "Men",
+      "discountApplicable": 50,
+      "added": "2022-04-09",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": []
+    },
+    {
+      "id": 3,
+      "name": "Park Avenue",
+      "description": "Yellow solid checked formal shirt, has a spread collar, button placket, 1 patch pocket, long regular sleeves, straight hem",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22402156/2023/3/17/9b7892d6-16ee-4224-baee-96cbfebb55cc1679054364029ParkAvenueMenYellowRelaxedOpaqueCheckedCasualShirt1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22402156/2023/3/17/9b7892d6-16ee-4224-baee-96cbfebb55cc1679054364029ParkAvenueMenYellowRelaxedOpaqueCheckedCasualShirt1.jpg",
+      "imgAltText": "Park Avenue",
+      "maxRetailPrice": 6999,
+      "category": "Men",
+      "discountApplicable": 0,
+      "added": "2023-09-04",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "3210",
+          "name": "Princy Britto",
+          "email": "peincy@gmail.com",
+          "phone": "9345672890",
+          "comment": "pls display the item's date of manufacturing as well .it would really help us when we pick up the high price clothing items especially with Men's clothing . This shirt by LP luxure was 2022 made and we have people choosing the current year for shirts .Please consider that.",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Raymond",
+      "description": "Men Blue Solid Single-Breasted 2-Piece Formal Suit",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19751354/2022/9/2/14a75286-9a9e-4208-912d-87d27b3cdc131662123861516Suits1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19751354/2022/9/2/14a75286-9a9e-4208-912d-87d27b3cdc131662123861516Suits1.jpg",
+      "imgAltText": "Raymond",
+      "maxRetailPrice": 14999,
+      "category": "Men",
+      "discountApplicable": 45,
+      "added": "2020-09-04",
+      "quantity": 3,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "6720",
+          "name": "Vijay Nath Jha",
+          "email": "vijayjha@gmail.com",
+          "phone": "8234615783",
+          "comment": "Simply the best. Very comfortable, soothing and light weight. All seasons wear.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Khushal K",
+      "description": "Ethnic Motifs Embroidered Sequined Kurta with Palazzos & Dupatta",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22120556/2023/2/25/31818595-3bda-4e8b-a93b-6cfc566126541677314970376KhushalKwomenEmbroideryKurtaandpalazzowithdupattaset1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22120556/2023/2/25/31818595-3bda-4e8b-a93b-6cfc566126541677314970376KhushalKwomenEmbroideryKurtaandpalazzowithdupattaset1.jpg",
+      "imgAltText": "Khushal K",
+      "maxRetailPrice": 5449,
+      "category": "Women",
+      "discountApplicable": 74,
+      "added": "2021-04-02",
+      "quantity": 20,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "9021",
+          "name": "Yashasvi Verma",
+          "email": "yashasvi@gmail.com",
+          "phone": "8234615783",
+          "comment": "I had to do little alteration but I liked the material and colour",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Anouk",
+      "description": "Blue Print Mandarin Collar Empire Pure Cotton Longline Top",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19524874/2022/8/17/0fb689b3-28b4-4f6a-be08-a2ce9dfedcdc1660715206206QOMNBluePrintMandarinCollarTop1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19524874/2022/8/17/0fb689b3-28b4-4f6a-be08-a2ce9dfedcdc1660715206206QOMNBluePrintMandarinCollarTop1.jpg",
+      "imgAltText": "Anouk",
+      "maxRetailPrice": 2499,
+      "category": "Women",
+      "discountApplicable": 30,
+      "added": "2022-08-07",
+      "quantity": 10,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "3267",
+          "name": "Swathi Prabhu",
+          "email": "swathiprabhu@gmail.com",
+          "phone": "9716382917",
+          "comment": "Product quality is really bad. The material looks old with just one wash!",
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "HOUSE OF JAMOTI",
+      "description": "Yellow and white saree. Embellished saree with embellished border. Has mirror work detail",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22939918/2023/4/28/4419ff14-7b16-4a75-9efb-2450a516b3651682687663195Sarees1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22939918/2023/4/28/4419ff14-7b16-4a75-9efb-2450a516b3651682687663195Sarees1.jpg",
+      "imgAltText": "HOUSE OF JAMOTI",
+      "maxRetailPrice": 2745,
+      "category": "Women",
+      "discountApplicable": 20,
+      "added": "2023-10-02",
+      "quantity": 1,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "3017",
+          "name": "Durga Shori",
+          "email": "durgashori@gmail.com",
+          "phone": "9103937463",
+          "comment": "Poor quality fabric. Faded away on first wash",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dupatta Bazaar",
+      "description": "Pink leheriya striped dupatta has tie and dye technique, embellished border",
+      "imageUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17662878/2022/3/29/1845bef1-9682-4d90-88ad-c71590a139cb1648492709355DupattaBazaarWomenPinkDupatta1.jpg",
+      "thumbnailUrl": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17662878/2022/3/29/1845bef1-9682-4d90-88ad-c71590a139cb1648492709355DupattaBazaarWomenPinkDupatta1.jpg",
+      "imgAltText": "Dupatta Bazaar",
+      "maxRetailPrice": 1999,
+      "category": "Women",
+      "discountApplicable": 52,
+      "added": "2023-09-04",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": "6712",
+          "name": "Sobhana Chandurkar",
+          "email": "Sobhanac@gmail.com",
+          "phone": "8034567281",
+          "comment": "It's just awesome colour is too pretty and fabric quality is good",
+          "rating": 5
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "titleText": "If you have a question or a comment, call/email us.",
+    "descriptionText": "Need help with your purchase? We will get back to you in no time. It would certainly help if you can mention your order details and your handphone number.",
+    "address": "Umang Tower, 5th Floor, Mindspace, Off. Link Road, Malad (West), Mumbai, Maharashtra – 400 064",
+    "phone": ["(91) 987 654 3210", "(91) 987 654 3211"],
+    "email": "contact@sparkclothing.com",
+    "operationalTimings": "08:00AM to 10:00PM"
+  },
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 1
+    }
+  ]
+}
